@@ -3,7 +3,7 @@
 大切な価値観を見直すきっかけを提供する、<br>
 日記記録サービスです。
 ## URL
-https://coco6.site<br><br>
+https://coco6.site<br>
 メールアドレス : guest@example.com<br>
 パスワード : guest1105<br>
 上記の情報からゲストページにアクセスすることができます。<br>
