@@ -2,7 +2,12 @@
 スマホに時間を奪われる続ける現代人に、<br>
 大切な価値観を見直すきっかけを提供する、<br>
 日記記録サービスです。
-<br><br>
+## URL
+https://coco6.site<br><br>
+メールアドレス : guest@example.com<br>
+パスワード : guest1105<br>
+上記の情報からゲストページにアクセスすることができます。<br>
+<br>
 <img width="1200" src="https://i.gyazo.com/78ef139660ad2a18b5cd71f050da17a7.jpg">
 <img width="1200" src="https://i.gyazo.com/8c6cab4da6660ff54327389def056301.png">
 <img width="1200" src="https://i.gyazo.com/2a967bb03f1b80edb15fdc5e0f69a76c.png">
